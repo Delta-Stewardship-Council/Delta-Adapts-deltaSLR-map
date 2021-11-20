@@ -2,6 +2,8 @@
 
 Welcome! This repository contains code that creates and visualizes polygons for flooded regions of the Delta under future climate scenarios, and is a project of the Delta Stewardship Council's [Delta Adapts](https://deltacouncil.ca.gov/delta-plan/climate-change) initiative. 
 
+**View the [interactive map](https://deltascience.shinyapps.io/delta_flood_map/)**
+
 The code is organized in three sections: 
 - 1_WSEs: Estimate water surface elevations (WSE) for future climate scenarios (driven by user specified boundary conditions for sea level rise and riverine inflows), and create cumulative distribution functions (CDFs) based on WSEs.
 - 2_Overtop_analysis: Create polygons of flooded areas under different deterministic and probabilistic scenarios
